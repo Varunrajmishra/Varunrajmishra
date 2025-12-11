@@ -1,2 +1,2 @@
 # VarunRaj
-Hello everyone! Welcome to my Profile.
+Hi everyone! Welcome to my Profile.
