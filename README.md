@@ -11,9 +11,6 @@
   <a href="mailto:varunrajmishra@yahoo.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+12034100466">
-    <img src="https://img.shields.io/badge/Call-00C853?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -306,7 +303,7 @@ A comprehensive entrepreneurship guide covering:
   </a>
 </p>
 
-### 📍 Jersey City, NJ, USA | 📞 +1 (203) 410-0466
+### 📍 Jersey City, NJ, USA 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
