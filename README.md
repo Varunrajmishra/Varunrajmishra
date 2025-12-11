@@ -2,6 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Raj%20Mishra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analytics+Professional+%F0%9F%93%8A;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Business+Intelligence+Developer+%F0%9F%92%BC" alt="Typing SVG" />
 
 <p align="center">
@@ -13,11 +18,9 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -42,51 +45,7 @@ class DataProfessional:
     def current_status(self):
         return "🔍 Open to Full-Time Opportunities | 🎓 Graduating Dec 2025"
 ```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 University of New Haven
-**M.S. in Business Analytics**  
-📅 Jan 2024 – Dec 2025  
-⭐ **GPA: 3.93/4.0**
-
-**Coursework:**
-- 🤖 Data Mining & Supervised ML
-- 💾 Database Management
-- 📈 Data Visualization & Power BI
-- 📊 Forecasting & Marketing Analytics
-
-</td>
-<td width="50%">
-
-### 🔧 CSVTU, India
-**B.Tech in Mechanical Engineering**  
-📅 Jul 2016 – May 2020
-
-**Highlights:**
-- 🏭 NTPC Korba Training (2600 MW Plant)
-- ⚙️ Operations & Quality Systems
-- 🛡️ Safety Management
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 💼 Professional Journey
 
@@ -116,79 +75,7 @@ class DataProfessional:
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🚦 Port Authority of NY & NJ — Traffic Analytics
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-</div>
-
-```
-📊 Analyzed 12 years of mobility patterns
-🎯 Achieved 92.31% classification accuracy
-📉 Quantified 9.6% reduction in severe congestion
-🔮 Generated 2026-2027 projections (RMSE: 12,137)
-```
-
-**Tech Stack:** `Azure AutoML` • `XGBoost` • `Random Forest` • `LightGBM`
-
----
-
-<div align="center">
-
-### 📈 GlassFactory Ontario — Lead Forecasting Dashboard
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat&logo=rstudio&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-</div>
-
-```
-📊 Processed 10,000+ inquiries
-🎯 Improved prediction accuracy by 25%
-📍 Enhanced segmentation clarity by 30-40%
-⚡ Reduced manual review by 60%
-```
-
-**Tech Stack:** `R` • `Shiny` • `Power BI` • `Time Series Analysis`
-
----
-
-<div align="center">
-
-### 💳 Corpay Corporation — Cross-Sell Monitoring
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-</div>
-
-```
-💾 Optimized 1B+ records
-⚡ Reduced query latency by 45%
-🎯 Improved segmentation precision by 30%
-📊 Cut manual reporting by 50%
-```
-
-**Tech Stack:** `SQL Server` • `SSIS` • `Power BI` • `Tableau` • `ML Models`
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🛠️ Tech Stack
 
@@ -233,7 +120,7 @@ class DataProfessional:
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📚 Publications
 
@@ -253,25 +140,11 @@ A comprehensive entrepreneurship guide covering:
 - 🌍 **Global Expansion** → Cross-border Operations
 - 👥 **Team Building** → Cultural Adaptation
 
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| 🏆 Certification | 🏛️ Issuing Body |
-|-----------------|-----------------|
-| PG Certification in Banking and Finance | NIBF, India |
-| IRDA Insurance Selling Certification | IRDAI, India |
-| NISM Series B: Mutual Fund Distributors | NISM, India |
-
-</div>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Stats
 
@@ -284,13 +157,11 @@ A comprehensive entrepreneurship guide covering:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 ### 💬 I'm always open to interesting conversations and collaboration opportunities!
 
@@ -305,13 +176,16 @@ A comprehensive entrepreneurship guide covering:
 
 ### 📍 Jersey City, NJ, USA 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh1dm1zdHN4NnB5bnk5d3hkbDNha3NlM3c5bzI1dXY1NXFocDRrcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKJNFVZ4xCMriFy/giphy.gif" width="300">
+</div>
 
 ### 🌟 Open to Full-Time Opportunities | Data Analytics • ML Engineering • Business Intelligence
 
@@ -320,3 +194,5 @@ A comprehensive entrepreneurship guide covering:
 <img src="https://komarev.com/ghpvc/?username=varunrajmishra&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
