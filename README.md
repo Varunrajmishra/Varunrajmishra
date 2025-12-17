@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,1,2,3,4&height=200&section=header&text=Varun%20Raj%20Mishra&fontSize=70&fontColor=D4AF37&animation=twinkling&fontAlignY=35&desc=Master%20Assassin%20of%20Data&descSize=25&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,1,2,3,4&height=200&section=header&text=Varun%20Raj%20Mishra&fontSize=70&fontColor=D4AF37&animation=twinkling&fontAlignY=35&desc=Master%20Assassin%20of%20Data&descSize=25&descAlignY=65&descAlign=50" width="100%"/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd6NDRjNWhwZ3poNmhtZmo1b21pb292a2Zjam1pZ3RhcXc5cThxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uYaDaNXw5EICCvQl4A/giphy.gif" width="30%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=%E2%9A%94%EF%B8%8F+Master+Assassin+of+Data+%E2%9A%94%EF%B8%8F;%F0%9F%A6%85+Nothing+is+True%2C+Everything+is+Permitted+%F0%9F%A6%85;%F0%9F%97%A1%EF%B8%8F+Wielder+of+Machine+Learning+Blades+%F0%9F%97%A1%EF%B8%8F;%E2%98%81%EF%B8%8F+Cloud+Solutions+Brotherhood+%E2%98%81%EF%B8%8F;%F0%9F%8F%9B%EF%B8%8F+The+Creed+of+Analytics+%F0%9F%8F%9B%EF%B8%8F;%F0%9F%8E%AF+Eagle+Vision+Activated+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Master+Assassin+of+Data;Nothing+is+True%2C+Everything+is+Permitted;Wielder+of+Machine+Learning+Blades;Cloud+Solutions+Brotherhood;The+Creed+of+Analytics;Eagle+Vision+Activated" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/varun-raj-mishra/">
@@ -55,28 +55,6 @@ class MasterAssassin:
         print("🎯 Target: DATA INSIGHTS")
         print("✅ Synchronization: COMPLETE")
 ```
-
-</td>
-<td width="50%">
-
-<img src="https://i.pinimg.com/originals/b2/1d/a0/b21da0b19c0131dcc3a5979760e4926c.gif" width="100%">
-
-**🏛️ Current Location:** Jersey City, NJ  
-**📜 Training Complete:** December 2025  
-**🎯 Mission Status:** Seeking Full-Time Contracts  
-**⚔️ Specialization:** Data & ML Assassination
-
-```
-    🦅 EAGLE VISION ACTIVATED 🦅
-    
-    [████████████████████] 100%
-    
-    Synchronization Complete
-    Animus Ready
-    Target Acquired
-```
-
-</td>
 </tr>
 </table>
 
@@ -257,7 +235,7 @@ class MasterAssassin:
 
 </div>
 
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=varunrajmishra&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d1117&title_color=D4AF37&text_color=D4AF37&icon_color=8B0000&border_radius=10" height="195" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunrajmishra&theme=transparent&hide_border=true&background=0d1117&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=D4AF37&border_radius=10" height="195" />
 
@@ -268,6 +246,7 @@ class MasterAssassin:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+</div>
 </div>
 
 ## 🤝 Join the Brotherhood
